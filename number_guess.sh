@@ -52,4 +52,4 @@ INSERT_GAME_RESULT=$($PSQL "INSERT INTO games(user_id, secret_number, number_of_
 
 echo You guessed it in $GUESS_COUNT tries. The secret number was $SECRET_NUMBER. Nice job\!
 
-#comment 2
+#comment 5
